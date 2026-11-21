@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5VEHo035nCt" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">BDCBD501_LoadPathLab_Final_FullScreen</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="BDCBD501_LoadPathLab_Final_FullScreen_ORG">
+    <organization identifier="BDCBD501_LoadPathLab_Final_FullScreen_ORG">
+      <title>BDCBD501_LoadPathLab_Final_FullScreen</title>
+      <item identifier="BDCBD501_LoadPathLab_Final_SCO" isvisible="true" identifierref="__5VEHo035nCt_RES">
+        <title>BDCBD501 Basic Reinforced Concrete Design · Load-Path Lab (live 3D)</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5VEHo035nCt_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/index.html" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/preview_mount.js" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/signlang.bundle.js" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/img/s1.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/img/s2.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/img/s3.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/img/s4.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/img/s5.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/img/s6.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/narr/HOME_GUIDE.mp3" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/narr/HOME_GUIDE.words.json" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/narr/HOME_WELCOME.mp3" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/narr/HOME_WELCOME.words.json" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/5WpyvI18C4y/sign/ROCKETBOX_LICENSE.md" />
+      <file href="mobile/5WpyvI18C4y5yu1Vbjx9lV{Width=1920, Height=1080}Light.png" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/index.html" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/lab.js" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/preview_mount.js" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_BLK1.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_BLK1.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_BLK2.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_BLK2.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_CURED.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_CURED.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_DONE.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_DONE.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_F_BEND.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_F_BEND.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_F_COVER.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_F_COVER.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_F_LAP.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_F_LAP.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOLD.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOLD.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOLD4.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOLD4.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOOK1.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOOK1.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOOK2.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_HOOK2.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LAP_IN.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LAP_IN.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LAP_OUT.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LAP_OUT.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LINK1.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LINK1.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LINK2.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_LINK2.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M1.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M1.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M1_OK.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M1_OK.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M2.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M2.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M2_OK.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M2_OK.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M3.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M3.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M3_OK.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M3_OK.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M4.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M4.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M4_OK.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M4_OK.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M5.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M5.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M5_OK.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_M5_OK.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_POURED.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_POURED.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_Q1.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_Q1.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_TIE.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_TIE.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_W_BEND.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_W_BEND.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_W_COVER.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_W_COVER.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_W_LAP.mp3" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/narr/S1_W_LAP.words.json" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/sign/ROCKETBOX_LICENSE.md" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/conc.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/concB.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/ground.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/groundB.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/iron.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/rib.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/rust.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/sandagg.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/sandsand.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/sky.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/strata.jpg" />
+      <file href="story_content/WebObjects/6AeBzkHLeBG/tex/wood.jpg" />
+      <file href="mobile/6AeBzkHLeBG5uFCtxY3f9p{Width=1920, Height=1080}Light.png" />
+      <file href="story_content/WebObjects/633lajFJhkG/index.html" />
+      <file href="story_content/WebObjects/633lajFJhkG/lab.js" />
+      <file href="story_content/WebObjects/633lajFJhkG/preview_mount.js" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_DONE.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_DONE.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_F_BEND.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_F_BEND.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_F_SHEAR.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_F_SHEAR.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_F_UNST.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_F_UNST.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_INTRO_M.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_INTRO_M.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M1.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M1.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M1_HOLD.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M1_HOLD.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M1_OK.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M1_OK.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_BAR.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_BAR.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_CREW.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_CREW.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_L2.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_L2.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_OK.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_OK.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_TIE.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_TIE.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_TIE2.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M2_TIE2.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3_DAY.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3_DAY.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3_FILL.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3_FILL.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3_OK.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M3_OK.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M4.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M4.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M4_FREE.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M4_FREE.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M4_OK.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M4_OK.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_BOLT.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_BOLT.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_FIX.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_FIX.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_NUT2.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_NUT2.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_OK.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_OK.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_PIN.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_PIN.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_TEST.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_M5_TEST.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_Q1.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_Q1.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_BEND.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_BEND.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_OVER.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_OVER.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_SHEAR.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_SHEAR.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_UNST.mp3" />
+      <file href="story_content/WebObjects/633lajFJhkG/narr/S2_W_UNST.words.json" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/633lajFJhkG/sign/ROCKETBOX_LICENSE.md" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/conc.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/concB.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/ground.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/groundB.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/iron.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/rib.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/rust.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/sandagg.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/sandsand.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/sky.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/strata.jpg" />
+      <file href="story_content/WebObjects/633lajFJhkG/tex/wood.jpg" />
+      <file href="mobile/633lajFJhkG6eYf5QMK1WI{Width=1920, Height=1080}Light.png" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/index.html" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/lab.js" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/preview_mount.js" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_C_BOARDS.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_C_BOARDS.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_C_SPACERS.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_C_SPACERS.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_DONE.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_DONE.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_F_DEFL.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_F_DEFL.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M1.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M1.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M1_OK.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M1_OK.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M2.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M2.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M2_OK.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M2_OK.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M3.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M3.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M3_CAL.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M3_CAL.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M3_OK.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M3_OK.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M4.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M4.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M4_OK.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_M4_OK.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_Q1.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_Q1.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_W_COVER.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_W_COVER.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_W_DEFL.mp3" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/narr/S3_W_DEFL.words.json" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/sign/ROCKETBOX_LICENSE.md" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/conc.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/concB.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/ground.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/groundB.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/iron.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/rib.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/rust.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/sandagg.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/sandsand.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/sky.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/strata.jpg" />
+      <file href="story_content/WebObjects/6hxzl3Sm0FS/tex/wood.jpg" />
+      <file href="mobile/6hxzl3Sm0FS6J743cM7hdN{Width=1920, Height=1080}Light.png" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/index.html" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/lab.js" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/preview_mount.js" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_DONE.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_DONE.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_F_BUCKLE.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_F_BUCKLE.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_INTRO_M.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_INTRO_M.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M1.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M1.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M1_OK.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M1_OK.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_B.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_B.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_C.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_C.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_CAL.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_CAL.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_CREW.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_CREW.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_F.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_F.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_OK.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_OK.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_P.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M2_P.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_CREW.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_CREW.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_N1.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_N1.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_N2.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_N2.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_OK.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M3_OK.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M4.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M4.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M4_OK.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_M4_OK.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_Q1.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_Q1.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_Q2.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_Q2.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_W_BUCKLE.mp3" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/narr/S4_W_BUCKLE.words.json" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/sign/ROCKETBOX_LICENSE.md" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/conc.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/concB.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/ground.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/groundB.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/iron.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/rib.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/rust.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/sandagg.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/sandsand.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/sky.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/strata.jpg" />
+      <file href="story_content/WebObjects/6GIjRVXDcNR/tex/wood.jpg" />
+      <file href="mobile/6GIjRVXDcNR5Y6zD95NZxz{Width=1920, Height=1080}Light.png" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/index.html" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/lab.js" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/preview_mount.js" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_DONE.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_DONE.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_F_BEAR.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_F_BEAR.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_F_PUNCH.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_F_PUNCH.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M1.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M1.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M1_OK.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M1_OK.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2_CAL.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2_CAL.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2_OK.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2_OK.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2_POUR.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M2_POUR.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M3.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M3.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M3_OK.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M3_OK.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4_FORM.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4_FORM.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4_OK.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4_OK.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4_POUR.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M4_POUR.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M5.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M5.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M5_OK.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_M5_OK.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_Q1.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_Q1.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_W_BEAR.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_W_BEAR.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_W_PUNCH.mp3" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/narr/S5_W_PUNCH.words.json" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/sign/ROCKETBOX_LICENSE.md" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/conc.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/concB.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/ground.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/groundB.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/iron.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/rib.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/rust.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/sandagg.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/sandsand.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/sky.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/strata.jpg" />
+      <file href="story_content/WebObjects/5XdSmlVsMxi/tex/wood.jpg" />
+      <file href="mobile/5XdSmlVsMxi5qTmTuWfyXH{Width=1920, Height=1080}Light.png" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/index.html" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/lab.js" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/preview_mount.js" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_DONE.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_DONE.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_F_PATH.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_F_PATH.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_F_SETTLE.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_F_SETTLE.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_INTRO_M.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_INTRO_M.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M1.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M1.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M1_OK.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M1_OK.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2_2.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2_2.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2_3.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2_3.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2_OK.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M2_OK.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3_2.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3_2.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3_CAL.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3_CAL.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3_OK.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M3_OK.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M4.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M4.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M4_OK.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_M4_OK.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_Q1.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_Q1.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_T5.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_T5.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_W_SETTLE.mp3" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/narr/S6_W_SETTLE.words.json" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/avatar.fbx" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/f014_body_color.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/f014_body_normal.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/f014_head_color.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/f014_head_normal.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/f014_opacity_color.png" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/sign/ROCKETBOX_LICENSE.md" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/conc.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/concB.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/ground.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/groundB.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/iron.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/rib.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/rust.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/sandagg.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/sandsand.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/sky.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/strata.jpg" />
+      <file href="story_content/WebObjects/65NZSCWwIcn/tex/wood.jpg" />
+      <file href="mobile/65NZSCWwIcn6I394caMc7Q{Width=1920, Height=1080}Light.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5g9R03X9HSg.js" />
+      <file href="html5/data/js/5tqdbLPr9m6.js" />
+      <file href="html5/data/js/67GoBMAUcKx.js" />
+      <file href="html5/data/js/6FCzbsKofay.js" />
+      <file href="html5/data/js/6N4KUoYuAXW.js" />
+      <file href="html5/data/js/6TYvlbhyWNf.js" />
+      <file href="html5/data/js/6UoEeNAFOJH.js" />
+      <file href="html5/data/js/6VD7Jdu4ZYZ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Basic reinforced concrete design: the load path</title>
+<style>
+html,body{margin:0;height:100%;background:#111;color:#e8ebef;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.top{height:44px;display:flex;align-items:center;gap:14px;padding:0 14px;background:#1b2027;border-bottom:1px solid #2b333d;font-size:14px}
+.top .t{font-weight:700;color:#fff;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.top button{color:#9fc3f5;background:none;border:0;font:inherit;cursor:pointer;padding:0}
+iframe{display:block;width:100%;height:calc(100% - 44px);border:0;background:#000}
+</style>
+<script>
+// Stand-in for Moodle (SCORM 1.2): the course runs exactly as in Moodle; progress is kept in this browser only.
+const KEY = 'rtb.bdcbd501.cmi';
+let cmi; try { cmi = JSON.parse(localStorage.getItem(KEY) || 'null'); } catch { cmi = null; }
+const fresh = !cmi;
+cmi = cmi || { 'cmi.core.lesson_status': 'not attempted', 'cmi.core.score.raw': '', 'cmi.suspend_data': '', 'cmi.core.lesson_location': '' };
+cmi['cmi.core.student_name'] = 'Reviewer'; cmi['cmi.core.student_id'] = 'reviewer';
+cmi['cmi.core.lesson_mode'] = 'normal'; cmi['cmi.core.credit'] = 'credit';
+cmi['cmi.core.entry'] = fresh || !cmi['cmi.suspend_data'] ? 'ab-initio' : 'resume';
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(cmi)); } catch {} };
+window.API = {
+  LMSInitialize: () => 'true', LMSFinish: () => { save(); return 'true'; },
+  LMSGetValue: (k) => cmi[k] ?? '', LMSSetValue: (k, v) => { cmi[k] = String(v); save(); return 'true'; },
+  LMSCommit: () => { save(); return 'true'; }, LMSGetLastError: () => '0', LMSGetErrorString: () => '', LMSGetDiagnostic: () => '',
+};
+addEventListener('beforeunload', save);
+</script></head><body>
+<div class="top"><span class="t">BDCBD501 · Basic reinforced concrete design: the load path</span>
+<button id="restart" title="Clear progress and start the course from the beginning">Start over</button></div>
+<iframe src="index_lms.html" title="The simulation" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<script>document.getElementById('restart').onclick = () => { if (confirm('Clear your progress and start over?')) { localStorage.removeItem(KEY); location.reload(); } };</script>
+</body></html>
